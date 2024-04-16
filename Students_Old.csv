@@ -1,4 +1,4 @@
-ID,Name,Email,Sex,Phone number,Country,Degree,Major,Faculty,Year_of_Study,Group,Education – full time,Enrollment_Year,Graduation_Year
+ID,Name,Email,Sex,Phone_Number,Country,Degree,Major,Faculty,Year_of_Study,Group,Education,Enrollment_Year,Graduation_Year
 1,Maria Ivanova,maria.ivanova0@university.com,F,359888888888,Bulgaria,PhD,Philosophy,Science,4,B,Full-time,2020,2024
 2,Maria Petrova,maria.petrova1@university.com,F,359777777777,Romania,MS,Philosophy,Science,4,E,Full-time,2020,2024
 3,Iliana Petrova,iliana.petrova2@university.com,F,359888888888,Bulgaria,PhD,Computer Science,Medicine,4,A,Part-time,2020,2024
