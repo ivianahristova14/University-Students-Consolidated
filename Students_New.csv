@@ -1,151 +1,151 @@
-SIN,Name,Email,Gender,Phone_Number,Country,Degree,Major,Faculty,Year_of_Study,Group,Education,Enrollment_Year
-1000,Maria Ivanova,maria.ivanova0@university.com,F,3.59889E+11,Bulgaria,PhD,Philosophy,Science,4,B,Full-time,2022
-1001,Maria Petrova,maria.petrova1@university.com,F,3.59778E+11,Romania,MS,Philosophy,Science,4,E,Full-time,2022
-1002,Iliana Petrova,iliana.petrova2@university.com,F,3.59889E+11,Bulgaria,PhD,Computer Science,Medicine,4,A,Part-time,2022
-1003,Iliana Vasileva,iliana.vasileva3@university.com,F,3.59889E+11,Italy,BS,Philosophy,Law,2,A,Full-time,2024
-1004,Peter Todorov,peter.todorov4@university.com,M,3.59778E+11,Bulgaria,PhD,Medicine,Economics,,E,Full-time,2022
-1005,Maria Hristova,maria.hristova5@university.com,F,3.59778E+11,Bulgaria,MS,Computer Science,Law,,D,Full-time,2023
-1006,Dimitar Todorov,dimitar.todorov6@university.com,M,3.59889E+11,Bulgaria,MS,Medicine,Law,,C,Full-time,2022
-1007,Iliana Nikolova,iliana.nikolova7@university.com,F,3.59778E+11,Bulgaria,BS,Biology,Law,4,E,Full-time,2022
-1008,Ivan Popov,ivan.popov8@university.com,M,3.59889E+11,Bulgaria,MS,Philosophy,Arts,4,D,Full-time,2022
-1009,Maria Todorova,maria.todorova9@university.com,F,3.59778E+11,Bulgaria,BS,Computer Science,Arts,2,C,Full-time,2024
-1010,Peter Stoyanov,peter.stoyanov10@university.com,M,3.59778E+11,Bulgaria,BS,Economics,Economics,3,C,Part-time,2023
-1011,Dimitar Todorov,dimitar.todorov11@university.com,M,3.59889E+11,Poland,BS,Computer Science,Arts,2,B,Full-time,2021
-1012,Anna Nikolova,anna.nikolova12@university.com,F,3.59778E+11,Germany,PhD,Law,Law,2,B,Full-time,2024
-1013,Peter Ivanov,peter.ivanov13@university.com,M,3.59778E+11,Bulgaria,BS,Law,Science,,A,Full-time,2022
-1014,Ivan Stoyanov,ivan.stoyanov14@university.com,M,3.59778E+11,Romania,MS,Computer Science,Arts,3,C,Full-time,2023
-1015,Elena Todorova,elena.todorova15@university.com,F,3.59778E+11,Czech Republic,MS,Law,Arts,3,A,Full-time,2023
-1016,Iliana Vasileva,iliana.vasileva16@university.com,F,3.59889E+11,Germany,BS,Computer Science,Engineering,,B,Part-time,2023
-1017,Peter Nikolov,peter.nikolov17@university.com,M,3.59778E+11,Spain,MS,Economics,Engineering,2,A,Full-time,2024
-1018,Anna Stoyanova,anna.stoyanova18@university.com,F,3.59778E+11,Bulgaria,PhD,Law,Medicine,2,B,Full-time,2024
-1019,Georgi Hristov,georgi.hristov19@university.com,M,3.59889E+11,Bulgaria,MS,Biology,Engineering,,A,Full-time,2021
-1020,Anna Popova,anna.popova20@university.com,F,3.59889E+11,Spain,PhD,Philosophy,Economics,4,A,Full-time,2022
-1021,Dimitar Vasileva,dimitar.vasileva21@university.com,M,3.59889E+11,Bulgaria,PhD,Medicine,Medicine,3,D,Full-time,2023
-1022,Iliana Ivanova,iliana.ivanova22@university.com,F,3.59889E+11,Bulgaria,PhD,Philosophy,Science,,A,Full-time,2022
-1023,Nikolay Georgieva,nikolay.georgieva23@university.com,M,3.59889E+11,Bulgaria,BS,Philosophy,Medicine,,E,Full-time,2021
-1024,Georgi Ivanov,georgi.ivanov24@university.com,M,3.59889E+11,Czech Republic,PhD,Law,Science,2,C,Full-time,2024
-1025,Nikolay Hristov,nikolay.hristov25@university.com,M,3.59778E+11,Hungary,BS,Computer Science,Arts,,C,Full-time,2021
-1026,Georgi Stoyanov,georgi.stoyanov26@university.com,M,3.59889E+11,Italy,MS,Law,Law,,B,Part-time,2021
-1027,Svetlana Dimitrova,svetlana.dimitrova27@university.com,F,3.59778E+11,Bulgaria,PhD,Economics,Engineering,2,E,Full-time,2024
-1028,Iliana Popova,iliana.popova28@university.com,F,3.59778E+11,Romania,PhD,Law,Law,3,E,Full-time,2023
-1029,Svetlana Hristova,svetlana.hristova29@university.com,F,3.59778E+11,Italy,PhD,Computer Science,Arts,,D,Full-time,2023
-1030,Georgi Ivanov,georgi.ivanov30@university.com,M,3.59889E+11,Bulgaria,MS,Law,Science,,B,Full-time,2023
-1031,Dimitar Stoyanov,dimitar.stoyanov31@university.com,M,3.59778E+11,Bulgaria,PhD,Law,Medicine,2,B,Full-time,2024
-1032,Ivan Stoyanov,ivan.stoyanov32@university.com,M,3.59889E+11,Italy,BS,Computer Science,Engineering,3,E,Full-time,2023
-1033,Ivan Stoyanov,ivan.stoyanov33@university.com,M,3.59778E+11,Bulgaria,MS,Economics,Arts,3,C,Full-time,2023
-1034,Peter Hristov,peter.hristov34@university.com,M,3.59778E+11,Greece,BS,Biology,Economics,3,B,Full-time,2023
-1035,Iliana Ivanova,iliana.ivanova35@university.com,F,3.59778E+11,Bulgaria,MS,Biology,Science,,A,Full-time,2021
-1036,Elena Georgieva,elena.georgieva36@university.com,F,3.59778E+11,Germany,MS,Medicine,Law,,E,Full-time,2024
-1037,Anna Todorova,anna.todorovaa37@university.com,F,3.59889E+11,Bulgaria,BS,Law,Medicine,,B,Full-time,2023
-1038,Dimitar Georgieva,dimitar.georgieva38@university.com,M,3.59889E+11,Romania,BS,Biology,Arts,,E,Full-time,2023
-1039,Ivan Dimitrov,ivan.dimitrov39@university.com,M,3.59889E+11,Bulgaria,PhD,Medicine,Arts,,A,Full-time,2021
-1040,Peter Hristov,peter.hristov40@university.com,M,3.59778E+11,Poland,PhD,Law,Arts,,B,Full-time,2021
-1041,Anna Stoyanova,anna.stoyanova41@university.com,F,3.59889E+11,Greece,MS,Philosophy,Science,4,E,Full-time,2022
-1042,Elena Vasileva,elena.vasileva42@university.com,F,3.59889E+11,Romania,BS,Economics,Economics,4,E,Full-time,2022
-1043,Georgi Petrov,georgi.petrov43@university.com,M,3.59889E+11,Greece,MS,Medicine,Arts,,E,Full-time,2021
-1044,Georgi Todorov,georgi.todorov44@university.com,M,3.59889E+11,Poland,PhD,Economics,Medicine,3,B,Full-time,2023
-1045,Elena Hristova,elena.hristova45@university.com,F,3.59889E+11,Bulgaria,PhD,Medicine,Engineering,4,C,Full-time,2022
-1046,Peter Nikolov,peter.nikolov46@university.com,M,3.59778E+11,Italy,MS,Computer Science,Arts,3,E,Full-time,2023
-1047,Nikolay Ivanov,nikolay.ivanov47@university.com,M,3.59889E+11,Poland,PhD,Medicine,Engineering,,D,Full-time,2021
-1048,Georgi Todorov,georgi.todorov48@university.com,M,3.59889E+11,Czech Republic,PhD,Computer Science,Arts,,D,Full-time,2022
-1049,Georgi Petrov,georgi.petrov49@university.com,M,3.59889E+11,Spain,PhD,Economics,Law,,A,Full-time,2021
-1050,Maria Ivanova,maria.ivanova50@university.com,F,3.59889E+11,Bulgaria,BS,Law,Economics,4,C,Full-time,2022
-1051,Anna Dimitrova,anna.dimitrova51@university.com,F,3.59889E+11,Hungary,BS,Philosophy,Science,,C,Part-time,2022
-1052,Peter Ivanov,peter.ivanov52@university.com,M,3.59778E+11,Bulgaria,PhD,Computer Science,Law,2,E,Full-time,2024
-1053,Elena Todorova,elena.todorovaa53@university.com,F,3.59889E+11,Czech Republic,PhD,Economics,Engineering,,B,Full-time,2021
-1054,Nikolay Dimitrov,nikolay.dimitrov54@university.com,M,3.59889E+11,Bulgaria,BS,Biology,Economics,,B,Full-time,2023
-1055,Anna Georgieva,anna.georgieva55@university.com,F,3.59889E+11,Bulgaria,PhD,Medicine,Science,4,A,Full-time,2022
-1056,Anna Popova,anna.popova56@university.com,F,3.59889E+11,Hungary,PhD,Biology,Science,,C,Full-time,2021
-1057,Svetlana Hristova,svetlana.hristova57@university.com,F,3.59778E+11,Poland,BS,Computer Science,Arts,,B,Full-time,2022
-1058,Anna Petrova,anna.petrova58@university.com,F,3.59889E+11,France,MS,Economics,Medicine,,B,Part-time,2022
-1059,Anna Stoyanova,anna.stoyanova59@university.com,F,3.59889E+11,Bulgaria,BS,Medicine,Science,4,A,Full-time,2022
-1060,Dimitar Hristov,dimitar.hristov60@university.com,M,3.59889E+11,Bulgaria,BS,Biology,Medicine,,E,Full-time,2022
-1061,Maria Dimitrova,maria.dimitrova61@university.com,F,3.59889E+11,Spain,PhD,Computer Science,Science,,C,Part-time,2021
-1062,Elena Popova,elena.popova62@university.com,F,3.59889E+11,Poland,MS,Law,Engineering,,B,Full-time,2022
-1063,Anna Hristova,anna.hristova63@university.com,F,3.59889E+11,France,MS,Biology,Arts,,E,Full-time,2021
-1064,Nikolay Georgieva,nikolay.georgieva64@university.com,M,3.59778E+11,Bulgaria,MS,Law,Medicine,,B,Full-time,2022
-1065,Elena Petrova,elena.petrova65@university.com,F,3.59889E+11,Bulgaria,MS,Law,Science,,B,Full-time,2022
-1066,Iliana Dimitrova,iliana.dimitrova66@university.com,F,3.59778E+11,Bulgaria,PhD,Economics,Science,,C,Full-time,2021
-1067,Georgi Georgieva,georgi.georgieva67@university.com,M,3.59778E+11,Bulgaria,BS,Law,Arts,,C,Full-time,2022
-1068,Georgi Ivanov,georgi.ivanov68@university.com,M,3.59889E+11,Bulgaria,MS,Philosophy,Law,,C,Full-time,2022
-1069,Iliana Todorova,iliana.todorov69@university.com,F,3.59778E+11,Bulgaria,BS,Law,Law,3,C,Full-time,2023
-1070,Georgi Stoyanov,georgi.stoyanov70@university.com,M,3.59889E+11,Bulgaria,BS,Economics,Medicine,,E,Full-time,2022
-1071,Elena Dimitrova,elena.dimitrova71@university.com,F,3.59889E+11,Spain,PhD,Philosophy,Science,,E,Full-time,2022
-1072,Anna Hristova,anna.hristova72@university.com,F,3.59889E+11,Spain,MS,Philosophy,Engineering,4,B,Full-time,2022
-1073,Iliana Petrova,iliana.petrova73@university.com,F,3.59889E+11,Greece,PhD,Computer Science,Economics,2,C,Part-time,2024
-1074,Anna Vasileva,anna.vasileva74@university.com,F,3.59889E+11,Bulgaria,PhD,Law,Medicine,,A,Full-time,2021
-1075,Iliana Hristova,iliana.hristova75@university.com,F,3.59778E+11,Bulgaria,MS,Philosophy,Arts,,D,Full-time,2021
-1076,Ivan Petrov,ivan.petrov76@university.com,M,3.59778E+11,Bulgaria,PhD,Law,Arts,,E,Full-time,2022
-1077,Ivan Nikolov,ivan.nikolov77@university.com,M,3.59889E+11,Poland,MS,Law,Law,,C,Full-time,2021
-1078,Anna Popova,anna.popova78@university.com,F,3.59889E+11,Bulgaria,PhD,Medicine,Engineering,,A,Full-time,2021
-1079,Anna Georgieva,anna.georgieva79@university.com,F,3.59778E+11,Poland,MS,Medicine,Engineering,,D,Full-time,2021
-1080,Anna Nikolova,anna.nikolova80@university.com,F,3.59889E+11,Bulgaria,BS,Economics,Engineering,,D,Full-time,2021
-1081,Maria Petrova,maria.petrova81@university.com,F,3.59889E+11,Bulgaria,MS,Economics,Science,,D,Full-time,2021
-1082,Dimitar Vasileva,dimitar.vasileva82@university.com,M,3.59889E+11,Bulgaria,PhD,Medicine,Arts,,B,Full-time,2021
-1083,Iliana Stoyanova,iliana.stoyanova83@university.com,F,3.59778E+11,Bulgaria,PhD,Medicine,Medicine,,C,Full-time,2021
-1084,Peter Dimitrov,peter.dimitrov84@university.com,M,3.59889E+11,Bulgaria,BS,Biology,Arts,2,D,Full-time,2024
-1085,Nikolay Nikolov,nikolay.nikolov85@university.com,M,3.59778E+11,Romania,PhD,Economics,Engineering,,E,Full-time,2022
-1086,Dimitar Ivanov,dimitar.ivanov86@university.com,M,3.59778E+11,Poland,BS,Medicine,Law,3,A,Full-time,2023
-1087,Dimitar Stoyanov,dimitar.stoyanov87@university.com,M,3.59889E+11,Czech Republic,PhD,Economics,Science,,D,Part-time,2021
-1088,Svetlana Dimitrova,svetlana.dimitrova88@university.com,F,3.59889E+11,Poland,PhD,Law,Law,,D,Full-time,2022
-1089,Maria Vasileva,maria.vasileva89@university.com,F,3.59889E+11,Bulgaria,MS,Law,Economics,,C,Full-time,2021
-1090,Elena Todorova,elena.todorova90@university.com,F,3.59889E+11,Italy,BS,Law,Science,,A,Full-time,2021
-1091,Anna Popova,anna.popova91@university.com,F,3.59889E+11,Bulgaria,PhD,Medicine,Engineering,,C,Full-time,2023
-1092,Maria Petrova,maria.petrova92@university.com,F,3.59778E+11,Bulgaria,BS,Law,Medicine,4,A,Full-time,2022
-1093,Peter Petrov,peter.petrov93@university.com,M,3.59889E+11,Bulgaria,PhD,Biology,Medicine,,C,Full-time,2023
-1094,Maria Nikolova,maria.nikolova94@university.com,F,3.59778E+11,Greece,BS,Law,Medicine,,E,Part-time,2022
-1095,Iliana Todorov,iliana.todorova95@university.com,F,3.59778E+11,France,PhD,Law,Science,,B,Full-time,2023
-1096,Georgi Popov,georgi.popov96@university.com,M,3.59778E+11,Bulgaria,BS,Philosophy,Science,,C,Full-time,2022
-1097,Dimitar Stoyanov,dimitar.stoyanov97@university.com,M,3.59889E+11,Germany,PhD,Computer Science,Economics,,A,Full-time,2022
-1098,Nikolay Hristov,nikolay.hristov98@university.com,M,3.59889E+11,Bulgaria,BS,Economics,Economics,,C,Full-time,2021
-1099,Anna Nikolova,anna.nikolova99@university.com,F,3.59889E+11,Bulgaria,PhD,Computer Science,Arts,,A,Full-time,2021
-1100,Iliana Georgieva,iliana.georgieva100@university.com,F,3.59889E+11,Italy,BS,Philosophy,Engineering,,B,Full-time,2021
-1101,Iliana Petrova,iliana.petrova101@university.com,F,3.59889E+11,Hungary,MS,Law,Medicine,4,A,Full-time,2022
-1102,Georgi Hristov,georgi.hristov102@university.com,M,3.59889E+11,Bulgaria,BS,Law,Arts,4,D,Full-time,2022
-1103,Elena Petrova,elena.petrova103@university.com,F,3.59778E+11,Hungary,MS,Computer Science,Science,3,D,Full-time,2023
-1104,Nikolay Nikolov,nikolay.nikolov104@university.com,M,3.59889E+11,Bulgaria,BS,Biology,Medicine,3,E,Full-time,2023
-1105,Nikolay Petrov,nikolay.petrov105@university.com,M,3.59778E+11,Bulgaria,MS,Computer Science,Science,,B,Full-time,203
-1106,Maria Ivanov,maria.ivanov106@university.com,F,3.59889E+11,Poland,BS,Biology,Economics,4,A,Full-time,2022
-1107,Anna Dimitrov,anna.dimitrov107@university.com,F,3.59778E+11,Bulgaria,PhD,Medicine,Science,,E,Part-time,2021
-1108,Peter Todorov,peter.todorov108@university.com,M,3.59778E+11,Germany,MS,Law,Arts,4,E,Full-time,2022
-1109,Elena Ivanov,elena.ivanov109@university.com,F,3.59889E+11,Bulgaria,MS,Law,Engineering,3,C,Full-time,2023
-1110,Svetlana Ivanov,svetlana.ivanov110@university.com,F,3.59778E+11,Hungary,MS,Law,Science,,B,Full-time,2022
-1111,Svetlana Stoyanova,svetlana.stoyanova111@university.com,F,3.59778E+11,Romania,PhD,Medicine,Science,,B,Full-time,2022
-1112,Anna Ivanov,anna.ivanov112@university.com,F,3.59889E+11,Spain,PhD,Philosophy,Medicine,,E,Full-time,2
-1113,Nikolay Hristov,nikolay.hristov113@university.com,M,3.59889E+11,France,BS,Medicine,Law,,E,Part-time,2021
-1114,Iliana Ivanov,iliana.ivanov114@university.com,F,3.59778E+11,Bulgaria,PhD,Medicine,Medicine,,B,Full-time,2021
-1115,Iliana Todorova,iliana.Todorova115@university.com,F,3.59778E+11,Czech Republic,MS,Law,Economics,3,C,Full-time,2023
-1116,Ivan Popov,ivan.popov116@university.com,M,3.59889E+11,Bulgaria,PhD,Economics,Engineering,,C,Full-time,2023
-1117,Svetlana Todorova,svetlana.todorova117@university.com,F,3.59889E+11,Bulgaria,PhD,Law,Engineering,,C,Full-time,2022
-1118,Georgi Hristov,georgi.hristov118@university.com,M,3.59778E+11,Bulgaria,PhD,Computer Science,Arts,3,D,Full-time,2023
-1119,Anna Petrova,anna.petrova119@university.com,F,3.59889E+11,Poland,PhD,Law,Arts,3,A,Full-time,2023
-1120,Georgi Nikolov,georgi.nikolov120@university.com,M,3.59778E+11,Czech Republic,PhD,Law,Science,2,B,Full-time,2024
-1121,Ivan Nikolov,ivan.nikolov121@university.com,M,3.59889E+11,Bulgaria,BS,Medicine,Medicine,4,E,Full-time,2022
-1122,Peter Nikolov,peter.nikolov122@university.com,M,3.59778E+11,Bulgaria,BS,Law,Law,4,D,Full-time,2022
-1123,Dimitar Vasileva,dimitar.vasileva123@university.com,M,3.59889E+11,Bulgaria,MS,Philosophy,Economics,,B,Full-time,203
-1124,Maria Stoyanova,maria.stoyanova124@university.com,F,3.59778E+11,Czech Republic,PhD,Law,Economics,2,B,Full-time,2024
-1125,Nikolay Vasileva,nikolay.vasileva125@university.com,M,3.59778E+11,Czech Republic,MS,Biology,Law,,C,Full-time,2023
-1126,Dimitar Nikolov,dimitar.nikolov126@university.com,M,3.59889E+11,Germany,PhD,Medicine,Law,4,D,Part-time,2022
-1127,Ivan Ivanov,ivan.ivanov127@university.com,M,3.59778E+11,Bulgaria,MS,Biology,Engineering,,D,Full-time,2021
-1128,Peter Hristov,peter.hristov128@university.com,M,3.59778E+11,Italy,MS,Economics,Medicine,4,C,Full-time,2022
-1129,Peter Nikolov,peter.nikolov129@university.com,M,3.59889E+11,Bulgaria,PhD,Biology,Economics,,A,Full-time,2
-1130,Svetlana Nikolova,svetlana.nikolova130@university.com,F,3.59889E+11,Italy,MS,Computer Science,Engineering,,B,Full-time,2022
-1131,Peter Todorov,peter.todorov131@university.com,M,3.59889E+11,Romania,MS,Medicine,Medicine,4,A,Part-time,2022
-1132,Georgi Petrov,georgi.petrov132@university.com,M,3.59889E+11,Hungary,PhD,Law,Law,,B,Full-time,2021
-1133,Svetlana Petrova,svetlana.petrova133@university.com,F,3.59889E+11,Bulgaria,PhD,Medicine,Arts,,A,Part-time,2023
-1134,Elena Georgieva,elena.georgieva134@university.com,F,3.59889E+11,Spain,PhD,Law,Economics,,E,Full-time,2024
-1135,Georgi Hristov,georgi.hristov135@university.com,M,3.59778E+11,Romania,PhD,Economics,Engineering,,D,Full-time,2022
-1136,Georgi Todorov,georgi.todorov136@university.com,M,3.59889E+11,Germany,MS,Economics,Medicine,,A,Part-time,2023
-1137,Maria Georgieva,maria.georgieva137@university.com,F,3.59889E+11,Bulgaria,MS,Economics,Economics,,A,Full-time,203
-1138,Elena Vasileva,elena.vasileva138@university.com,F,3.59778E+11,Bulgaria,BS,Biology,Engineering,,B,Full-time,2023
-1139,Svetlana Vasileva,svetlana.vasileva139@university.com,F,3.59889E+11,Hungary,BS,Biology,Science,,E,Full-time,2023
-1140,Dimitar Petrov,dimitar.petrov140@university.com,M,3.59778E+11,Bulgaria,MS,Biology,Law,,B,Full-time,2022
-1141,Maria Todorova,maria.todorova141@university.com,F,3.59778E+11,Bulgaria,PhD,Computer Science,Economics,,A,Full-time,2021
-1142,Svetlana Ivanov,svetlana.ivanov142@university.com,F,3.59778E+11,Italy,BS,Medicine,Law,,B,Full-time,2022
-1143,Anna Stoyanova,anna.stoyanova143@university.com,F,3.59778E+11,Bulgaria,BS,Law,Medicine,4,B,Full-time,2022
-1144,Iliana Todorova,iliana.todorova144@university.com,F,3.59889E+11,Bulgaria,PhD,Biology,Engineering,2,C,Full-time,2024
-1145,Maria Todorova,maria.todorova145@university.com,F,3.59778E+11,Bulgaria,BS,Medicine,Economics,,A,Full-time,2021
-1146,Ivan Dimitrov,ivan.dimitrov146@university.com,M,3.59889E+11,Bulgaria,MS,Economics,Economics,3,C,Full-time,2023
-1147,Svetlana Ivanova,svetlana.ivanova147@university.com,F,3.59778E+11,Bulgaria,PhD,Biology,Engineering,,A,Full-time,203
-1148,Georgi Dimitrov,georgi.dimitrov148@university.com,M,3.59889E+11,Bulgaria,BS,Philosophy,Economics,,A,Full-time,2
-1149,Georgi Georgieva,georgi.georgieva149@university.com,M,3.59889E+11,Poland,PhD,Medicine,Arts,,C,Full-time,2023
+SIN,Name,Email,Gender,Phone_Number,Country,Degree,Major,Faculty,Years_of_Study,Group,Education,Enrollment_Year
+1000,Maria Ivanova,maria.ivanova0@university.com,F,359889000000.0,Bulgaria,PhD,Philosophy,Science,4,B,Full-time,2022
+1001,Maria Petrova,maria.petrova1@university.com,F,359778000000.0,Romania,MS,Philosophy,Science,4,E,Full-time,2022
+1002,Iliana Petrova,iliana.petrova2@university.com,F,359889000000.0,Bulgaria,PhD,Computer Science,Medicine,4,A,Part-time,2022
+1003,Iliana Vasileva,iliana.vasileva3@university.com,F,359889000000.0,Italy,BS,Philosophy,Law,2,A,Full-time,2024
+1004,Peter Todorov,peter.todorov4@university.com,M,359778000000.0,Bulgaria,PhD,Medicine,Economics,,E,Full-time,2022
+1005,Maria Hristova,maria.hristova5@university.com,F,359778000000.0,Bulgaria,MS,Computer Science,Law,,D,Full-time,2023
+1006,Dimitar Todorov,dimitar.todorov6@university.com,M,359889000000.0,Bulgaria,MS,Medicine,Law,,C,Full-time,2022
+1007,Iliana Nikolova,iliana.nikolova7@university.com,F,359778000000.0,Bulgaria,BS,Biology,Law,4,E,Full-time,2022
+1008,Ivan Popov,ivan.popov8@university.com,M,359889000000.0,Bulgaria,MS,Philosophy,Arts,4,D,Full-time,2022
+1009,Maria Todorova,maria.todorova9@university.com,F,359778000000.0,Bulgaria,BS,Computer Science,Arts,2,C,Full-time,2024
+1010,Peter Stoyanov,peter.stoyanov10@university.com,M,359778000000.0,Bulgaria,BS,Economics,Economics,3,C,Part-time,2023
+1011,Dimitar Todorov,dimitar.todorov11@university.com,M,359889000000.0,Poland,BS,Computer Science,Arts,2,B,Full-time,2021
+1012,Anna Nikolova,anna.nikolova12@university.com,F,359778000000.0,Germany,PhD,Law,Law,2,B,Full-time,2024
+1013,Peter Ivanov,peter.ivanov13@university.com,M,359778000000.0,Bulgaria,BS,Law,Science,,A,Full-time,2022
+1014,Ivan Stoyanov,ivan.stoyanov14@university.com,M,359778000000.0,Romania,MS,Computer Science,Arts,3,C,Full-time,2023
+1015,Elena Todorova,elena.todorova15@university.com,F,359778000000.0,Czech Republic,MS,Law,Arts,3,A,Full-time,2023
+1016,Iliana Vasileva,iliana.vasileva16@university.com,F,359889000000.0,Germany,BS,Computer Science,Engineering,,B,Part-time,2023
+1017,Peter Nikolov,peter.nikolov17@university.com,M,359778000000.0,Spain,MS,Economics,Engineering,2,A,Full-time,2024
+1018,Anna Stoyanova,anna.stoyanova18@university.com,F,359778000000.0,Bulgaria,PhD,Law,Medicine,2,B,Full-time,2024
+1019,Georgi Hristov,georgi.hristov19@university.com,M,359889000000.0,Bulgaria,MS,Biology,Engineering,,A,Full-time,2021
+1020,Anna Popova,anna.popova20@university.com,F,359889000000.0,Spain,PhD,Philosophy,Economics,4,A,Full-time,2022
+1021,Dimitar Vasileva,dimitar.vasileva21@university.com,M,359889000000.0,Bulgaria,PhD,Medicine,Medicine,3,D,Full-time,2023
+1022,Iliana Ivanova,iliana.ivanova22@university.com,F,359889000000.0,Bulgaria,PhD,Philosophy,Science,,A,Full-time,2022
+1023,Nikolay Georgieva,nikolay.georgieva23@university.com,M,359889000000.0,Bulgaria,BS,Philosophy,Medicine,,E,Full-time,2021
+1024,Georgi Ivanov,georgi.ivanov24@university.com,M,359889000000.0,Czech Republic,PhD,Law,Science,2,C,Full-time,2024
+1025,Nikolay Hristov,nikolay.hristov25@university.com,M,359778000000.0,Hungary,BS,Computer Science,Arts,,C,Full-time,2021
+1026,Georgi Stoyanov,georgi.stoyanov26@university.com,M,359889000000.0,Italy,MS,Law,Law,,B,Part-time,2021
+1027,Svetlana Dimitrova,svetlana.dimitrova27@university.com,F,359778000000.0,Bulgaria,PhD,Economics,Engineering,2,E,Full-time,2024
+1028,Iliana Popova,iliana.popova28@university.com,F,359778000000.0,Romania,PhD,Law,Law,3,E,Full-time,2023
+1029,Svetlana Hristova,svetlana.hristova29@university.com,F,359778000000.0,Italy,PhD,Computer Science,Arts,,D,Full-time,2023
+1030,Georgi Ivanov,georgi.ivanov30@university.com,M,359889000000.0,Bulgaria,MS,,Science,,B,Full-time,2023
+1031,Dimitar Stoyanov,dimitar.stoyanov31@university.com,M,359778000000.0,Bulgaria,PhD,Law,Medicine,2,B,Full-time,2024
+1032,Ivan Stoyanov,ivan.stoyanov32@university.com,M,359889000000.0,Italy,BS,Computer Science,Engineering,3,E,Full-time,2023
+1033,Ivan Stoyanov,ivan.stoyanov33@university.com,M,359778000000.0,Bulgaria,MS,Economics,Arts,3,C,Full-time,2023
+1034,Peter Hristov,peter.hristov34@university.com,M,359778000000.0,Greece,BS,Biology,Economics,3,B,Full-time,2023
+1035,Iliana Ivanova,iliana.ivanova35@university.com,F,359778000000.0,Bulgaria,MS,Biology,Science,,A,Full-time,2021
+1036,Elena Georgieva,elena.georgieva36@university.com,F,359778000000.0,Germany,MS,Medicine,Law,,E,Full-time,2024
+1037,Anna Todorova,anna.todorovaa37@university.com,F,359889000000.0,Bulgaria,BS,Law,Medicine,,B,Full-time,2023
+1038,Dimitar Georgieva,dimitar.georgieva38@university.com,M,359889000000.0,Romania,BS,Biology,Arts,,E,Full-time,2023
+1039,Ivan Dimitrov,ivan.dimitrov39@university.com,M,359889000000.0,Bulgaria,PhD,Medicine,Arts,,A,Full-time,2021
+1040,Peter Hristov,peter.hristov40@university.com,M,359778000000.0,Poland,PhD,Law,Arts,,B,Full-time,2021
+1041,Anna Stoyanova,anna.stoyanova41@university.com,F,359889000000.0,Greece,MS,Philosophy,Science,4,E,Full-time,2022
+1042,Elena Vasileva,elena.vasileva42@university.com,F,359889000000.0,Romania,BS,Economics,Economics,4,E,Full-time,2022
+1043,Georgi Petrov,georgi.petrov43@university.com,M,359889000000.0,Greece,MS,Medicine,Arts,,E,Full-time,2021
+1044,Georgi Todorov,georgi.todorov44@university.com,M,359889000000.0,Poland,PhD,Economics,Medicine,3,B,Full-time,2023
+1045,Elena Hristova,elena.hristova45@university.com,F,359889000000.0,Bulgaria,PhD,Medicine,Engineering,4,C,Full-time,2022
+1046,Peter Nikolov,peter.nikolov46@university.com,M,359778000000.0,Italy,MS,Computer Science,Arts,3,E,Full-time,2023
+1047,Nikolay Ivanov,nikolay.ivanov47@university.com,M,359889000000.0,Poland,PhD,Medicine,Engineering,,D,Full-time,2021
+1048,Georgi Todorov,georgi.todorov48@university.com,M,359889000000.0,Czech Republic,PhD,Computer Science,Arts,,D,Full-time,2022
+1049,Georgi Petrov,georgi.petrov49@university.com,M,359889000000.0,Spain,PhD,Economics,Law,,A,Full-time,2021
+1050,Maria Ivanova,maria.ivanova50@university.com,F,359889000000.0,Bulgaria,BS,Law,Economics,4,C,Full-time,2022
+1051,Anna Dimitrova,anna.dimitrova51@university.com,F,359889000000.0,Hungary,BS,Philosophy,Science,,C,Part-time,2022
+1052,Peter Ivanov,peter.ivanov52@university.com,M,359778000000.0,Bulgaria,PhD,Computer Science,Law,2,E,Full-time,2024
+1053,Elena Todorova,elena.todorovaa53@university.com,F,359889000000.0,Czech Republic,PhD,Economics,Engineering,,B,Full-time,2021
+1054,Nikolay Dimitrov,nikolay.dimitrov54@university.com,M,359889000000.0,Bulgaria,BS,Biology,Economics,,B,Full-time,2023
+1055,Anna Georgieva,anna.georgieva55@university.com,F,359889000000.0,Bulgaria,PhD,Medicine,Science,4,A,Full-time,2022
+1056,Anna Popova,anna.popova56@university.com,F,359889000000.0,Hungary,PhD,Biology,Science,,C,Full-time,2021
+1057,Svetlana Hristova,svetlana.hristova57@university.com,F,359778000000.0,Poland,BS,Computer Science,Arts,,B,Full-time,2022
+1058,Anna Petrova,anna.petrova58@university.com,F,359889000000.0,France,MS,Economics,Medicine,,B,Part-time,2022
+1059,Anna Stoyanova,anna.stoyanova59@university.com,F,359889000000.0,Bulgaria,BS,Medicine,Science,4,A,Full-time,2022
+1060,Dimitar Hristov,dimitar.hristov60@university.com,M,359889000000.0,Bulgaria,BS,Biology,Medicine,,E,Full-time,2022
+1061,Maria Dimitrova,maria.dimitrova61@university.com,F,359889000000.0,Spain,PhD,Computer Science,Science,,C,Part-time,2021
+1062,Elena Popova,elena.popova62@university.com,F,359889000000.0,Poland,MS,Law,Engineering,,B,Full-time,2022
+1063,Anna Hristova,anna.hristova63@university.com,F,359889000000.0,France,MS,Biology,Arts,,E,Full-time,2021
+1064,Nikolay Georgieva,nikolay.georgieva64@university.com,M,359778000000.0,Bulgaria,MS,Law,Medicine,,B,Full-time,2022
+1065,Elena Petrova,elena.petrova65@university.com,F,359889000000.0,Bulgaria,MS,Law,Science,,B,Full-time,2022
+1066,Iliana Dimitrova,iliana.dimitrova66@university.com,F,359778000000.0,Bulgaria,PhD,Economics,Science,,C,Full-time,2021
+1067,Georgi Georgieva,georgi.georgieva67@university.com,M,359778000000.0,Bulgaria,BS,Law,,,C,Full-time,2022
+1068,Georgi Ivanov,georgi.ivanov68@university.com,M,359889000000.0,Bulgaria,MS,Philosophy,Law,,C,Full-time,2022
+1069,Iliana Todorova,iliana.todorov69@university.com,F,359778000000.0,Bulgaria,BS,Law,Law,3,C,Full-time,2023
+1070,Georgi Stoyanov,georgi.stoyanov70@university.com,M,359889000000.0,Bulgaria,BS,Economics,Medicine,,E,Full-time,2022
+1071,Elena Dimitrova,elena.dimitrova71@university.com,F,359889000000.0,Spain,PhD,Philosophy,Science,,E,Full-time,2022
+1072,Anna Hristova,anna.hristova72@university.com,F,359889000000.0,Spain,MS,Philosophy,Engineering,4,B,Full-time,2022
+1073,Iliana Petrova,iliana.petrova73@university.com,F,359889000000.0,Greece,PhD,Computer Science,Economics,2,C,Part-time,2024
+1074,Anna Vasileva,anna.vasileva74@university.com,F,359889000000.0,Bulgaria,PhD,Law,Medicine,,A,Full-time,2021
+1075,Iliana Hristova,iliana.hristova75@university.com,F,359778000000.0,Bulgaria,MS,Philosophy,Arts,,D,Full-time,2021
+1076,Ivan Petrov,ivan.petrov76@university.com,M,359778000000.0,Bulgaria,PhD,Law,Arts,,E,Full-time,2022
+1077,Ivan Nikolov,ivan.nikolov77@university.com,M,359889000000.0,Poland,MS,Law,Law,,C,Full-time,2021
+1078,Anna Popova,anna.popova78@university.com,F,359889000000.0,Bulgaria,PhD,Medicine,Engineering,,A,Full-time,2021
+1079,Anna Georgieva,anna.georgieva79@university.com,F,359778000000.0,Poland,MS,Medicine,Engineering,,D,Full-time,2021
+1080,Anna Nikolova,anna.nikolova80@university.com,F,359889000000.0,Bulgaria,BS,Economics,Engineering,,D,Full-time,2021
+1081,Maria Petrova,maria.petrova81@university.com,F,359889000000.0,Bulgaria,MS,Economics,Science,,D,Full-time,2021
+1082,Dimitar Vasileva,dimitar.vasileva82@university.com,M,359889000000.0,Bulgaria,PhD,Medicine,Arts,,B,Full-time,2021
+1083,Iliana Stoyanova,iliana.stoyanova83@university.com,F,359778000000.0,Bulgaria,PhD,Medicine,Medicine,,C,Full-time,2021
+1084,Peter Dimitrov,peter.dimitrov84@university.com,M,359889000000.0,Bulgaria,BS,Biology,Arts,2,D,Full-time,2024
+1085,Nikolay Nikolov,nikolay.nikolov85@university.com,M,359778000000.0,Romania,PhD,Economics,Engineering,,E,Full-time,2022
+1086,Dimitar Ivanov,dimitar.ivanov86@university.com,M,359778000000.0,Poland,BS,Medicine,Law,3,A,Full-time,2023
+1087,Dimitar Stoyanov,dimitar.stoyanov87@university.com,M,359889000000.0,Czech Republic,PhD,Economics,Science,,D,Part-time,2021
+1088,Svetlana Dimitrova,svetlana.dimitrova88@university.com,F,359889000000.0,Poland,PhD,Law,Law,,D,Full-time,2022
+1089,Maria Vasileva,maria.vasileva89@university.com,F,359889000000.0,Bulgaria,MS,Law,Economics,,C,Full-time,2021
+1090,Elena Todorova,elena.todorova90@university.com,F,359889000000.0,Italy,BS,Law,Science,,A,Full-time,2021
+1091,Anna Popova,anna.popova91@university.com,F,359889000000.0,Bulgaria,PhD,Medicine,Engineering,,C,Full-time,2023
+1092,Maria Petrova,maria.petrova92@university.com,F,359778000000.0,Bulgaria,BS,Law,Medicine,4,A,Full-time,2022
+1093,Peter Petrov,peter.petrov93@university.com,M,359889000000.0,Bulgaria,PhD,Biology,Medicine,,C,Full-time,2023
+1094,Maria Nikolova,maria.nikolova94@university.com,F,359778000000.0,Greece,BS,Law,Medicine,,E,Part-time,2022
+1095,Iliana Todorov,iliana.todorova95@university.com,F,359778000000.0,France,PhD,Law,Science,,B,Full-time,2023
+1096,Georgi Popov,georgi.popov96@university.com,M,359778000000.0,Bulgaria,BS,Philosophy,Science,,C,Full-time,2022
+1097,Dimitar Stoyanov,dimitar.stoyanov97@university.com,M,359889000000.0,Germany,PhD,Computer Science,Economics,,A,Full-time,2022
+1098,Nikolay Hristov,nikolay.hristov98@university.com,M,359889000000.0,Bulgaria,BS,Economics,Economics,,C,Full-time,2021
+1099,Anna Nikolova,anna.nikolova99@university.com,F,359889000000.0,Bulgaria,PhD,Computer Science,Arts,,A,Full-time,2021
+1100,Iliana Georgieva,iliana.georgieva100@university.com,F,359889000000.0,Italy,BS,Philosophy,Engineering,,B,Full-time,2021
+1101,Iliana Petrova,iliana.petrova101@university.com,F,359889000000.0,Hungary,MS,Law,Medicine,4,A,Full-time,2022
+1102,Georgi Hristov,georgi.hristov102@university.com,M,359889000000.0,Bulgaria,BS,Law,Arts,4,D,Full-time,2022
+1103,Elena Petrova,elena.petrova103@university.com,F,359778000000.0,Hungary,MS,Computer Science,Science,3,D,Full-time,2023
+1104,Nikolay Nikolov,nikolay.nikolov104@university.com,M,359889000000.0,Bulgaria,BS,Biology,Medicine,3,E,Full-time,2023
+1105,Nikolay Petrov,nikolay.petrov105@university.com,M,359778000000.0,Bulgaria,MS,Computer Science,Science,,B,Full-time,203
+1106,Maria Ivanov,maria.ivanov106@university.com,F,359889000000.0,Poland,BS,Biology,Economics,4,A,Full-time,2022
+1107,Anna Dimitrov,anna.dimitrov107@university.com,F,359778000000.0,Bulgaria,PhD,Medicine,Science,,E,Part-time,2021
+1108,Peter Todorov,peter.todorov108@university.com,M,359778000000.0,Germany,MS,Law,Arts,4,E,Full-time,2022
+1109,Elena Ivanov,elena.ivanov109@university.com,F,359889000000.0,Bulgaria,MS,Law,Engineering,3,C,Full-time,2023
+1110,Svetlana Ivanov,svetlana.ivanov110@university.com,F,359778000000.0,Hungary,MS,Law,Science,,B,Full-time,2022
+1111,Svetlana Stoyanova,svetlana.stoyanova111@university.com,F,359778000000.0,Romania,PhD,Medicine,Science,,B,Full-time,2022
+1112,Anna Ivanov,anna.ivanov112@university.com,F,359889000000.0,Spain,PhD,Philosophy,Medicine,,E,Full-time,2
+1113,Nikolay Hristov,nikolay.hristov113@university.com,M,359889000000.0,France,BS,Medicine,Law,,E,Part-time,2021
+1114,Iliana Ivanov,iliana.ivanov114@university.com,F,359778000000.0,Bulgaria,PhD,Medicine,Medicine,,B,Full-time,2021
+1115,Iliana Todorova,iliana.Todorova115@university.com,F,359778000000.0,Czech Republic,MS,Law,Economics,3,C,Full-time,2023
+1116,Ivan Popov,ivan.popov116@university.com,M,359889000000.0,Bulgaria,PhD,Economics,Engineering,,C,Full-time,2023
+1117,Svetlana Todorova,svetlana.todorova117@university.com,F,359889000000.0,Bulgaria,PhD,Law,Engineering,,C,Full-time,2022
+1118,Georgi Hristov,georgi.hristov118@university.com,M,359778000000.0,Bulgaria,PhD,Computer Science,Arts,3,D,Full-time,2023
+1119,Anna Petrova,anna.petrova119@university.com,F,359889000000.0,Poland,PhD,Law,Arts,3,A,Full-time,2023
+1120,Georgi Nikolov,georgi.nikolov120@university.com,M,359778000000.0,Czech Republic,PhD,Law,Science,2,B,Full-time,2024
+1121,Ivan Nikolov,ivan.nikolov121@university.com,M,359889000000.0,Bulgaria,BS,Medicine,Medicine,4,E,Full-time,2022
+1122,Peter Nikolov,peter.nikolov122@university.com,M,359778000000.0,Bulgaria,BS,Law,,4,D,Full-time,2022
+1123,Dimitar Vasileva,dimitar.vasileva123@university.com,M,359889000000.0,Bulgaria,MS,Philosophy,Economics,,B,Full-time,203
+1124,Maria Stoyanova,maria.stoyanova124@university.com,F,359778000000.0,Czech Republic,PhD,Law,Economics,2,B,Full-time,2024
+1125,Nikolay Vasileva,nikolay.vasileva125@university.com,M,359778000000.0,Czech Republic,MS,Biology,Law,,C,Full-time,2023
+1126,Dimitar Nikolov,dimitar.nikolov126@university.com,M,359889000000.0,Germany,PhD,Medicine,Law,4,D,Part-time,2022
+1127,Ivan Ivanov,ivan.ivanov127@university.com,M,359778000000.0,Bulgaria,MS,Biology,Engineering,,D,Full-time,2021
+1128,Peter Hristov,peter.hristov128@university.com,M,359778000000.0,Italy,MS,Economics,Medicine,4,C,Full-time,2022
+1129,Peter Nikolov,peter.nikolov129@university.com,M,359889000000.0,Bulgaria,PhD,Biology,Economics,,A,Full-time,2
+1130,Svetlana Nikolova,svetlana.nikolova130@university.com,F,359889000000.0,Italy,MS,Computer Science,Engineering,,B,Full-time,2022
+1131,Peter Todorov,peter.todorov131@university.com,M,359889000000.0,Romania,MS,Medicine,Medicine,4,A,Part-time,2022
+1132,Georgi Petrov,georgi.petrov132@university.com,M,359889000000.0,Hungary,PhD,Law,Law,,B,Full-time,2021
+1133,Svetlana Petrova,svetlana.petrova133@university.com,F,359889000000.0,Bulgaria,PhD,Medicine,Arts,,A,Part-time,2023
+1134,Elena Georgieva,elena.georgieva134@university.com,F,359889000000.0,Spain,PhD,Law,Economics,,E,Full-time,2024
+1135,Georgi Hristov,georgi.hristov135@university.com,M,359778000000.0,Romania,PhD,Economics,Engineering,,D,Full-time,2022
+1136,Georgi Todorov,georgi.todorov136@university.com,M,359889000000.0,Germany,MS,Economics,Medicine,,A,Part-time,2023
+1137,Maria Georgieva,maria.georgieva137@university.com,F,359889000000.0,Bulgaria,MS,Economics,Economics,,A,Full-time,203
+1138,Elena Vasileva,elena.vasileva138@university.com,F,359778000000.0,Bulgaria,BS,Biology,Engineering,,B,Full-time,2023
+1139,Svetlana Vasileva,svetlana.vasileva139@university.com,F,359889000000.0,Hungary,BS,Biology,Science,,E,Full-time,2023
+1140,Dimitar Petrov,dimitar.petrov140@university.com,M,359778000000.0,Bulgaria,MS,Biology,Law,,B,Full-time,2022
+1141,Maria Todorova,maria.todorova141@university.com,F,359778000000.0,Bulgaria,PhD,Computer Science,Economics,,A,Full-time,2021
+1142,Svetlana Ivanov,svetlana.ivanov142@university.com,F,359778000000.0,Italy,BS,Medicine,Law,,B,Full-time,2022
+1143,Anna Stoyanova,anna.stoyanova143@university.com,F,359778000000.0,Bulgaria,BS,Law,Medicine,4,B,Full-time,2022
+1144,Iliana Todorova,iliana.todorova144@university.com,F,359889000000.0,Bulgaria,PhD,Biology,Engineering,2,C,Full-time,2024
+1145,Maria Todorova,maria.todorova145@university.com,F,359778000000.0,Bulgaria,BS,Medicine,Economics,,A,Full-time,2021
+1146,Ivan Dimitrov,ivan.dimitrov146@university.com,M,359889000000.0,Bulgaria,MS,Economics,Economics,3,C,Full-time,2023
+1147,Svetlana Ivanova,svetlana.ivanova147@university.com,F,359778000000.0,Bulgaria,PhD,Biology,Engineering,,A,Full-time,203
+1148,Georgi Dimitrov,georgi.dimitrov148@university.com,M,359889000000.0,Bulgaria,BS,Philosophy,Economics,,A,Full-time,2
+1149,Georgi Georgieva,georgi.georgieva149@university.com,M,359889000000.0,Poland,PhD,,Arts,,C,Full-time,2023
